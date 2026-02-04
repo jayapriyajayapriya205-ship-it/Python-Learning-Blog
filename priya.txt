@@ -1,0 +1,49 @@
+# College Symposium Registration Form
+
+Welcome to the College Symposium! Please fill out the registration form below.
+
+---
+
+## Personal Information
+
+- **Full Name:** 
+- **Age:** 
+- **Gender:** 
+- **Email Address:** 
+- **Phone Number:** 
+
+## College Information
+
+- **College Name:** 
+- **Course / Department:** 
+- **Year of Study:** 
+
+## Event Participation
+
+Please indicate which events you would like to participate in:
+
+- [ ] Paper Presentation
+- [ ] Poster Presentation
+- [ ] Workshop
+- [ ] Cultural Events
+- [ ] Other: ___________
+
+## Accommodation Requirements
+
+- [ ] Yes, I need accommodation
+- [ ] No, I don't need accommodation
+
+## Special Requirements / Notes
+
+Please specify any dietary restrictions, accessibility requirements, or other notes:
+
+_________________________
+
+## Consent
+
+- [ ] I agree to abide by the rules and regulations of the symposium.
+- [ ] I consent to my data being used for symposium purposes only.
+
+**Signature:** ____________________
+
+**Date:** ____________________
